@@ -1,0 +1,6 @@
+{
+  "name": "MemeVerse",
+  "description": "A mobile-first short video & meme sharing platform supporting free speech, humor, with feeds, uploads, admin dashboard, reporting, and search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
